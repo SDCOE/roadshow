@@ -1,4 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -17,11 +19,18 @@
 #msg-box4-k .mbr-article {
   color: #ffffff;
 }
+#msg-box4-k .mbr-article P {
+  font-size: 20px;
+}
 #content4-l .mbr-section__col .mbr-header__text {
   text-align: left;
 }
 #content4-l P {
   color: #000000;
+}
+#content4-m .mbr-section-title .mbr-header__text DIV {
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
 }
 #contacts1-5 P {
   color: #ffffff;

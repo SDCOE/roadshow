@@ -118,7 +118,7 @@
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -152,7 +152,7 @@
             }
           },
           "title": "LET US GET YOU STARTED",
-          "text": "<p>One of the biggest barriers to understanding a new technology is finding the right tools to get started and the best way to integrate with your curriculum. The Ed Tech Roadshow aims to remove barriers so San Diego County educators can learn about emerging technologies the best way, through EXPERIENCE. We meet you where you are by creating a low risk, informal environment to experience and play in while providing a network of support to guide you along the way. Let us help you discover the curriculum integrations and academic implications, while you imagine the possibilities.&nbsp;</p>",
+          "text": "<p>One of the biggest barriers to understanding a new technology is finding the right tools to get started and the best way to integrate with your curriculum. The Ed Tech Roadshow aims to remove barriers so San Diego County educators can learn about emerging technologies the best way, through EXPERIENCE. </p><p>We meet you where you are by creating a low risk, informal environment to experience and play in while providing a network of support to guide you along the way. Let us help you discover the curriculum integrations and academic implications, while you imagine the possibilities.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -165,6 +165,9 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "20px"
             }
           },
           "headerAlign": "left",
@@ -195,8 +198,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2c82c9",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
           },
           "_tags": [
             "Theme"
@@ -338,12 +341,12 @@
         {
           "_inherit": "features1",
           "_params": {
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "columns": "3",
@@ -364,14 +367,17 @@
             "Theme"
           ],
           "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "header": "WHEN &amp; WHERE TO MEET UP<br><div><span style=\"color: inherit; font-family: inherit;\">All Roadshows 4:30 to 6:30 p.m.</span><br></div>",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/balboa-park-san-diego-ca-usa-panoramio-82-600x381.jpeg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "Panama 66 in Balboa Park, the scultpure garden",
+              "title": "Panama 66 in Balboa Park"
             },
             "video": {
               "class": "mbr-figure__img",
@@ -383,15 +389,18 @@
               "size": 0
             }
           },
-          "title1": "Balboa Park &amp; <br>Panama 66",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title1": "CENTRAL SAN DIEGO&nbsp;<br><br>Nov. 13, 2019<br>Balboa Park &amp; Panama 66",
+          "caption1": "Meet up at 4:30 p.m. near the steps of the San Diego Museum of Art. We will do a 360º photo-walking tour and learn a little about some of the history of the park. We will take brainstorm classroom implications. <br><br>Then, around 5:45 p.m. we will head back to hang out and network a while at <a href=\"https://www.panama66.com/\" target=\"_blank\">Panama 66</a>, an open air restaurant in a courtyard right in front of the Marcy S. May Sculpture Garden near the west side of the San Diego Museum of Art. It's an informal, no-host meet up, in a place with amazing ambiance, and all are welcome.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/lamesahiddenstairs-600x900.jpeg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "La Mesa Hidden Stairs, Mt. Nebo",
+              "title": "La Mesa Hidden Stairs, Mt. Nebo"
             },
             "video": {
               "class": "mbr-figure__img",
@@ -403,15 +412,18 @@
               "size": 0
             }
           },
-          "title2": "La Mesa Hidden Stairs &amp; <br>Surf Rider Pizza",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title2": "EAST COUNTY&nbsp;<br><br>Feb. 13, 2020<br>La Mesa Hidden Stairs &amp; Surf Rider Pizza",
+          "caption2": "Join us at 4:30 p.m. the East base of the Hidden Stairs in La Mesa at corner of Acacia Avenue and Beverly Drive (91941). The 360º photo-walk starts with a short hike up the East stairs, then back down for a historical look at how the Mt. Nebo neighborhood and La Mesa Villiage area have changed over time. We will end the tour around 5:45. <br><br>After, please join us for a no-host hang out at the newly constructed <a href=\"https://surfrider.pizza/locations/la-mesa/\" target=\"_blank\">Surf Rider Pizza Co.</a> where New York style pizza is servered by the slice. As they say on their website, \"Enjoy hot pizza, in a chill environment.\"",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "media3": {
             "image": {
               "active": true,
-              "src": "images/google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/sandiegonationalwildliferefuge-600x400.jpeg",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "San Diego Bay National Wildlife Refuge",
+              "title": "San Diego Bay National Wildlife Refuge"
             },
             "video": {
               "class": "mbr-figure__img",
@@ -423,9 +435,9 @@
               "size": 0
             }
           },
-          "title3": "South Bay National Wildlife Refuge &amp; <br>The Galley at the Marina",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title3": "SOUTH COUNTY<br><br>May 13, 2020<br>Sweetwater Marsh &amp; Galley at the Marina",
+          "caption3": "Come visit the Sweetwater Marsh at 4:30 p.m. 1080 Gunpowder Point Drive, Chula Vista, 91910. We will practice using 360º cameras, take photos, consider how your students can become involved in creation of Virtual Tours for National Parks and other protected areas in San Diego, and network with other educators also interested in integrating environmental topics into their curriculum in interesting ways.&nbsp;<br><br>For those interested, come to a no-host social at&nbsp;<a href=\"https://thegalleyatthemarina.com/\" target=\"_blank\">Galley At The Marina</a>, to hang out and enjoy views of the bay in Chula Vista.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "media4": {
             "image": {
               "active": true,
@@ -487,7 +499,14 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
-          "_anchor": "content4-m"
+          "_anchor": "content4-m",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text DIV": {
+              "font-size": "15px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -545,7 +564,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, <a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a>",
+          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, <a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a><br>* La Mesa Hidden Stairs, image&nbsp;CC BY-NC 2.0, Susan Williamas,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\">https://www.flickr.com/photos/susan_w/3698660723</a><br>* San Diego Bay National Wildlife Refuge,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\"><br></a><br>",
           "_tags": [
             "Theme"
           ],
@@ -885,7 +904,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, <a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a>",
+          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, <a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a><br>* La Mesa Hidden Stairs, image&nbsp;CC BY-NC 2.0, Susan Williamas,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\">https://www.flickr.com/photos/susan_w/3698660723</a><br>* San Diego Bay National Wildlife Refuge,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\"><br></a><br>",
           "_tags": [
             "Theme"
           ],
