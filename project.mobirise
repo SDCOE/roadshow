@@ -199,7 +199,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.4"
           },
           "_tags": [
             "Theme"
@@ -347,13 +347,13 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": true,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -390,7 +390,7 @@
             }
           },
           "title1": "CENTRAL SAN DIEGO&nbsp;<br><br>Nov. 13, 2019<br>Balboa Park &amp; Panama 66",
-          "caption1": "Meet up at 4:30 p.m. near the steps of the San Diego Museum of Art. We will do a 360º photo-walking tour and learn a little about some of the history of the park. We will take brainstorm classroom implications. <br><br>Then, around 5:45 p.m. we will head back to hang out and network a while at <a href=\"https://www.panama66.com/\" target=\"_blank\">Panama 66</a>, an open air restaurant in a courtyard right in front of the Marcy S. May Sculpture Garden near the west side of the San Diego Museum of Art. It's an informal, no-host meet up, in a place with amazing ambiance, and all are welcome.&nbsp;",
+          "caption1": "Meet up at 4:30 p.m. near the steps of the San Diego Museum of Art. We will do a 360º photo-walking tour and learn a little about some of the history of the park. We will take brainstorm classroom implications. <br><br>Then, around 5:45 p.m. we will head back to hang out and network a while at <a href=\"https://www.panama66.com/\" target=\"_blank\">Panama 66</a>, an open air restaurant in a courtyard right in front of the Marcy S. May Sculpture Garden near the west side of the San Diego Museum of Art. It's an informal, no-host meet up, in a place with amazing ambiance, and all are welcome.&nbsp;<br><br>Join us on (TBD) for an <a href=\"http://edtecho.innovatesd.org\" target=\"_blank\">EdTECHO Tuesdays</a> webinar showing how to use images to create 360º tours using the free <a href=\"http://arvr.google.com/tourcreator/\" target=\"_blank\">Google VR Tour Creator</a>. We will also provide a framework for lesson planning!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
           "media2": {
             "image": {
@@ -413,8 +413,8 @@
             }
           },
           "title2": "EAST COUNTY&nbsp;<br><br>Feb. 13, 2020<br>La Mesa Hidden Stairs &amp; Surf Rider Pizza",
-          "caption2": "Join us at 4:30 p.m. the East base of the Hidden Stairs in La Mesa at corner of Acacia Avenue and Beverly Drive (91941). The 360º photo-walk starts with a short hike up the East stairs, then back down for a historical look at how the Mt. Nebo neighborhood and La Mesa Villiage area have changed over time. We will end the tour around 5:45. <br><br>After, please join us for a no-host hang out at the newly constructed <a href=\"https://surfrider.pizza/locations/la-mesa/\" target=\"_blank\">Surf Rider Pizza Co.</a> where New York style pizza is servered by the slice. As they say on their website, \"Enjoy hot pizza, in a chill environment.\"",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "caption2": "Join us at 4:30 p.m. the East base of the Hidden Stairs in La Mesa at corner of Acacia Avenue and Beverly Drive (91941). The 360º photo-walk starts with a short hike up the East stairs, then back down for a historical look at how the Mt. Nebo neighborhood and La Mesa Villiage area have changed over time. We will end the tour around 5:45. <br><br>After, please join us for a no-host hang out at the newly constructed <a href=\"https://surfrider.pizza/locations/la-mesa/\" target=\"_blank\">Surf Rider Pizza Co.</a> where New York style pizza is servered by the slice. As they say on their website, \"Enjoy hot pizza, in a chill environment.\"<br><br>Join us on (TBD) for an <a href=\"http://edtecho.innovatesd.org\" target=\"_blank\">EdTECHO Tuesdays </a>webinar showing how to use images to create 360º tours using the free <a href=\"http://thinglink.com\" target=\"_blank\">Thinglink VR Editor</a>.<br>We will also provide a framework for lesson planning!<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdAUVHfIzLoEISQGqHjz7AvKZH9azAf0jtP0K1z5TjSqn3k1A/viewform?usp=sf_link\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a>",
           "media3": {
             "image": {
               "active": true,
@@ -436,8 +436,8 @@
             }
           },
           "title3": "SOUTH COUNTY<br><br>May 13, 2020<br>Sweetwater Marsh &amp; Galley at the Marina",
-          "caption3": "Come visit the Sweetwater Marsh at 4:30 p.m. 1080 Gunpowder Point Drive, Chula Vista, 91910. We will practice using 360º cameras, take photos, consider how your students can become involved in creation of Virtual Tours for National Parks and other protected areas in San Diego, and network with other educators also interested in integrating environmental topics into their curriculum in interesting ways.&nbsp;<br><br>For those interested, come to a no-host social at&nbsp;<a href=\"https://thegalleyatthemarina.com/\" target=\"_blank\">Galley At The Marina</a>, to hang out and enjoy views of the bay in Chula Vista.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "caption3": "Come visit the Sweetwater Marsh at 4:30 p.m. 1080 Gunpowder Point Drive, Chula Vista, 91910. We will practice using 360º cameras, take photos, consider how your students can become involved in creation of Virtual Tours for National Parks and other protected areas in San Diego, and network with other educators also interested in integrating environmental topics into their curriculum in interesting ways.&nbsp;<br><br>For those interested, come to a no-host social at&nbsp;<a href=\"https://thegalleyatthemarina.com/\" target=\"_blank\">Galley At The Marina</a>, to hang out and enjoy views of the bay in Chula Vista.&nbsp;<br><br>Join us on (TBD) for an <a href=\"http://edtecho.innovatesd.org\" target=\"_blank\">EdTECHO Tuesdays</a> webinar showing how to use images to create 360º tours using <a href=\"http://arvr.google.com/tourcreator\" target=\"_blank\">Google VR Tour Creator</a> and <a href=\"http://thinglink.com\" target=\"_blank\">Thinklink VR Editor</a>.&nbsp;We will also provide a framework for lesson planning!<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeo2_9SA5v7M0yJ3D3IRtSCDaEPzZk6vSpyqd9O_u4bZbpHaw/viewform?usp=sf_link\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a>",
           "media4": {
             "image": {
               "active": true,
@@ -538,7 +538,7 @@
             }
           },
           "text1": "<b>Educational Technology Department</b><br>6401 Linda Vista Road, Room 308<br>San Diego, CA 92111",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: pamela.rabin@sdcoe.net<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: pamela.rabin@sdcoe.net<br><a href=\"http://twitter.com/pamrabin\" target=\"_blank\" class=\"text-info\">@pamrabin</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "_tags": [
             "Theme"
@@ -564,7 +564,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, <a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a><br>* La Mesa Hidden Stairs, image&nbsp;CC BY-NC 2.0, Susan Williamas,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\">https://www.flickr.com/photos/susan_w/3698660723</a><br>* San Diego Bay National Wildlife Refuge,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\"><br></a><br>",
+          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, (<a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a>)<br>* La Mesa Hidden Stairs, image&nbsp;CC BY-NC 2.0, Susan Williamas, (<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\">https://www.flickr.com/photos/susan_w/3698660723</a>)<br>* San Diego Bay National Wildlife Refuge,&nbsp;CC BY-SA 3.0, Vistor7, (<a href=\"https://commons.wikimedia.org/wiki/File:San_Diego_National_Wildlife_Refuge_Complex.jpg\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0</a>)<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\"><br></a><br>",
           "_tags": [
             "Theme"
           ],
@@ -878,7 +878,7 @@
             }
           },
           "text1": "<b>Educational Technology Department</b><br>6401 Linda Vista Road, Room 308<br>San Diego, CA 92111",
-          "text2": "<strong>CONTACT</strong><br>\nEmail: pamela.rabin@sdcoe.net<br><br>",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: pamela.rabin@sdcoe.net<br><a href=\"http://twitter.com/pamrabin\" target=\"_blank\" class=\"text-info\">@pamrabin</a><br><br>",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "_tags": [
             "Theme"
@@ -904,7 +904,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, <a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a><br>* La Mesa Hidden Stairs, image&nbsp;CC BY-NC 2.0, Susan Williamas,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\">https://www.flickr.com/photos/susan_w/3698660723</a><br>* San Diego Bay National Wildlife Refuge,&nbsp;<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\"><br></a><br>",
+          "text": "The San Diego County Office of Education is committed to ensuring equal, fair, and meaningful access to employment and education services. SDCOE does not discriminate in its employment practices or educational programs and activities on the basis of race, color, national or ethnic origin, ancestry, age, religion or religious creed, marital status, pregnancy or parental status, physical or mental disability or handicap, sex or gender, gender/transgender identity and expression, sexual orientation, military or veteran status, political affi\u001fliation, genetic information, a perception of one or more of such characteristics, association with a person of group with one or more of these actual or perceived characteristics, or any other characteristic protected under applicable federal, state or local law as applicable to educational services and/or employment. More detailed SDCOE policies and regulations can be found at www.sdcoe.net/nondiscrimination.<br><br>All images used are Public Domain or created by SDCOE staff unless otherwise noted.&nbsp;<br>* Panama 66 in Balboa Park, image CC BY-SA3.0, Roman Eugeniusz, (<a href=\"https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg\" target=\"_blank\">https://commons.wikimedia.org/wiki/File:Balboa_Park,_San_Diego,_CA,_USA_-_panoramio_(82).jpg</a>)<br>* La Mesa Hidden Stairs, image&nbsp;CC BY-NC 2.0, Susan Williamas, (<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\">https://www.flickr.com/photos/susan_w/3698660723</a>)<br>* San Diego Bay National Wildlife Refuge,&nbsp;CC BY-SA 3.0, Vistor7, (<a href=\"https://commons.wikimedia.org/wiki/File:San_Diego_National_Wildlife_Refuge_Complex.jpg\" target=\"_blank\">https://creativecommons.org/licenses/by-sa/3.0</a>)<a href=\"https://www.flickr.com/photos/susan_w/3698660723\" target=\"_blank\"><br></a><br>",
           "_tags": [
             "Theme"
           ],
