@@ -709,8 +709,8 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -849,7 +849,7 @@
             }
           },
           "title6": "EXAMPLES<br><br>",
-          "caption6": "<a href=\"http://explorer360.org/va/atractions/luraycaverns.html\">Luray Caverns</a><br><a href=\"http://explorer360.org/va/atractions/luraycaverns.html\"><br></a><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\">National Museum of Natural History</a><br><br>Total Solar Eclipse<a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a><br><br><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a>",
+          "caption6": "<a href=\"http://explorer360.org/va/atractions/luraycaverns.html\">Luray Caverns</a><br><a href=\"http://explorer360.org/va/atractions/luraycaverns.html\"><br></a><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\">National Museum of Natural History</a><br><br><a href=\"https://www.youtube.com/watch?time_continue=17&amp;v=53PvDEkgbno\" target=\"_blank\">360º Solar Eclipse</a><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a><br><br><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-g"
