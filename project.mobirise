@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-11_0827",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -231,7 +231,7 @@
             }
           },
           "title1": "THREE REGIONAL TOURS ACROSS SAN DIEGO COUNTY",
-          "caption1": "The first three regional tours in our Ed Tech Roadshow focus on student creation of virtual reality (VR) tours through the use of 360° cameras, Google Tour Creator, Thinglink’s VR Editor, and a curriculum framework for planning. Bring your own cameras, or borrow one of our Ricoh Theta SCs. We’ll conclude the tour with an informal, no-host, social at a nearby establishment. Then, join us online the following week for an, “edTECH-O Tuesday”, webinar where we will show you how easy it is to create content using Google’s Tour Creator and the images you captured. Finally, we identify the career pathways associated with the growth and production of VR and mixed reality media.",
+          "caption1": "The first three regional tours in our Ed Tech Roadshow focus on student creation of virtual reality (VR) tours through the use of 360° cameras, Google Tour Creator, Thinglink’s VR Editor, and a curriculum framework for planning. We start with a photowalk. Bring your own cameras, or borrow one of our Ricoh Theta SCs. We’ll conclude the walk with an informal, no-host, social at a nearby establishment. The following week join us online for an edTECH-O Tuesday webinar where we show you how easy it is to create content using Google’s Tour Creator and the images you captured. Finally, we identify the career pathways associated with the growth and production of VR and mixed reality media.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -251,7 +251,7 @@
             }
           },
           "title2": "HOW WE SUPPORT YOUR LEARNING",
-          "caption2": "1. A photo-walk using 360º cameras, explore this new technology<br>2. Neworking, no-host, social (nearby &amp; immediately after the photo-walk)<br>3. Follow-up webinar with integration ideas &amp; VR tour creation<br>4. Lesson framework for planning your own experiences",
+          "caption2": "1. A photo-walk using 360º cameras, explore this new technology<br>2. Neworking, no-host, social (nearby &amp; immediately after the photowalk)<br>3. Follow-up webinar with integration ideas &amp; VR tour creation<br>4. Lesson framework for planning your own experiences<br>5. Information about career pathways associated with VR &amp; mixed reality",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -608,7 +608,7 @@
             "inverse": false,
             "imageSize": "10",
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/copy-of-roadshow-teaser-3-1586x1008.jpg",
             "parallax": true,
