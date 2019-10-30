@@ -46,7 +46,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
@@ -83,13 +83,13 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/copy-of-roadshow-teaser-7-1579x750.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-roadshow-website-1579x750.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -101,7 +101,7 @@
             "overlayColor": "#2969b0",
             "overlayOpacity": "0.2"
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
+          "title": "Educational Technology Roadshow",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
@@ -109,7 +109,14 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-3"
+          "_anchor": "header4-3",
+          "_styles": {
+            "H1": {
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -666,7 +673,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
