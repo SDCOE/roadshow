@@ -45,6 +45,7 @@
 #msg-box5-f .mbr-header__text {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 #msg-box5-f .mbr-header__subtext {
   color: #ffffff;

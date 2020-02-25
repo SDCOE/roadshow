@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-11_0827",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -598,7 +598,8 @@
             ".mbr-header__text": {
               "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -629,7 +630,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "headerAlign": "left",
+          "headerAlign": "center",
           "media": {
             "image": {
               "class": "mbr-figure__img",
@@ -648,7 +649,7 @@
               "loop": false
             }
           },
-          "title": "RESOURCES FOR VIRTUAL REALITY TOURS",
+          "title": "RESOURCES FOR VIRTUAL REALITY TOURS<br>Our Recommendations",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
@@ -816,7 +817,7 @@
             }
           },
           "title4": "LESSON PLANNING",
-          "caption4": "Virtual Tour Lesson Plan<br><br><a href=\"https://historyview.org/\" target=\"_blank\">History View</a><br><br>&nbsp;",
+          "caption4": "<a href=\"https://docs.google.com/document/d/1amKLFlSqbI73qvgY7XqwcUs0WpkK80_vXroCQSI2v1E/edit?usp=sharing\" target=\"_blank\">Virtual Tour Lesson Plan</a><br><br><a href=\"https://historyview.org/\" target=\"_blank\">History View</a><br><br>&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
