@@ -1,19 +1,20 @@
 {
   "settings": {
     "name": "Roadshow",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#3c3c3c"
+        "#3c3c3c",
+        "#2a6ab0"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -875,6 +876,131 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-g"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2a6ab0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=3MQ9yG_QfDA&feature=emb_logo",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Google Expeditions",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Virtual field trips are being used by classroom educators to promote experiential learning. Enthusiasm skyrockets with this free tool. Use the list below to see the available tours. Many of them are viewable on computer, though we think the best way is through a VR viewer.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIST OF AVAILABLE EXPEDITIONS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-o"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-1579x750.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "https://youtu.be/YbTfnoVdwVM",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Love Where You Live&nbsp;",
+          "text": "<p>This is an example of a VR Tour created by students at Redbank Valley Jr./Sr. High School. The students researched the history of their area and integrated pictures of local businesses and landmarks with historical images and origin stories. What is in the immediate area of your school or community that students could learn more about and present in this unique way? Imagine the possibilities and know the creation tools are within easy reach.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://poly.google.com/view/8HAR6VOEqCR\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT THIS TOUR IN POLY</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-p"
         },
         {
           "_params": {
