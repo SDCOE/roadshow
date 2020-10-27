@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -732,9 +732,9 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "6",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -771,7 +771,7 @@
               "size": 0
             }
           },
-          "title1": "360º IMAGES<br><br>",
+          "title1": "360º CAMERAS<br><br>",
           "caption1": "<a href=\"https://theta360.com/en/about/theta/sc.html\">Ricoh Theta SC</a><br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
@@ -791,7 +791,7 @@
               "size": 0
             }
           },
-          "title2": "VIRTUAL TOURS<br><br>",
+          "title2": "TOURS CREATION&nbsp;<br><br>",
           "caption2": "<a href=\"https://vr.google.com/tourcreator/\" target=\"_blank\">Google Tour Creator</a><br><br><a href=\"https://demo.thinglink.com/vr-editor\" target=\"_blank\">Thinglink VR</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
@@ -812,7 +812,7 @@
             }
           },
           "title3": "EDUCATIONAL USES",
-          "caption3": "Virtual Fieldtrips<br>Escape Rooms<br>School Events<br>School Tours<br>Virtual Tours<br>Student Showcase",
+          "caption3": "Virtual Fieldtrips<br>Virtual Escape Rooms<br>Exploration<br>School Events<br>School Tours<br>Virtual Tours<br>Student Showcase<br>Training Simulations CTE<br>Virtual Poetry",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -832,7 +832,7 @@
             }
           },
           "title4": "LESSON PLANNING",
-          "caption4": "<a href=\"https://docs.google.com/document/d/1amKLFlSqbI73qvgY7XqwcUs0WpkK80_vXroCQSI2v1E/edit?usp=sharing\" target=\"_blank\">Virtual Tour Lesson Plan</a><br><br><a href=\"https://historyview.org/\" target=\"_blank\">History View</a><br><br>&nbsp;",
+          "caption4": "<a href=\"https://docs.google.com/document/d/1amKLFlSqbI73qvgY7XqwcUs0WpkK80_vXroCQSI2v1E/edit?usp=sharing\" target=\"_blank\">Virtual Tour Lesson Plan</a><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -875,7 +875,174 @@
           "caption6": "<a href=\"http://explorer360.org/va/atractions/luraycaverns.html\">Luray Caverns</a><br><a href=\"http://explorer360.org/va/atractions/luraycaverns.html\"><br></a><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\">National Museum of Natural History</a><br><br><a href=\"https://www.youtube.com/watch?time_continue=17&amp;v=53PvDEkgbno\" target=\"_blank\">360º Solar Eclipse</a><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a><br><br><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
-          "_anchor": "content4-g"
+          "_anchor": "content4-g",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "360º IMAGES<br><br>",
+          "caption1": "<a href=\"https://unsplash.com/s/photos/360\" class=\"text-primary\" target=\"_blank\">Unsplash 360º</a><br><br><a href=\"https://pixexid.com/search/360%20panoramic\" class=\"text-primary\" target=\"_blank\">Pixexid 360º</a><a href=\"https://pixexid.com/search/360%20panoramic\" class=\"text-primary\" target=\"_blank\"><br></a><a href=\"https://unsplash.com/s/photos/360\" class=\"text-primary\" target=\"_blank\"><br></a><br><br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "EXAMPLE TOURS&nbsp;&nbsp;<br><br>",
+          "caption2": "<a href=\"http://explorer360.org/va/atractions/luraycaverns.html\" class=\"text-primary\" target=\"_blank\">Luray Caverns</a><br><br><a href=\"https://naturalhistory.si.edu/visit/virtual-tour\" class=\"text-primary\" target=\"_blank\">National Museum of Natural History</a><br><br><a href=\"https://www.youtube.com/watch?v=53PvDEkgbno\" class=\"text-primary\" target=\"_blank\">360º Solar Eclipse</a><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "ARTICLES &amp; BOOKS",
+          "caption3": "<a href=\"https://www.commonsense.org/education/top-picks/virtual-field-trip-apps-and-websites\" class=\"text-primary\" target=\"_blank\">Virtual Field Trips Apps &amp; Websites</a><br><a href=\"https://www.commonsense.org/education/top-picks/virtual-field-trip-apps-and-websites\" class=\"text-primary\" target=\"_blank\"><br></a><a href=\"https://www.amazon.com/dp/B073Q83L6B/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1\" class=\"text-primary\" target=\"_blank\">Experience on Demand</a><br><br><a href=\"https://www.amazon.com/dp/B073Q83L6B/ref=dp-kindle-redirect?_encoding=UTF8&amp;btkr=1\" class=\"text-primary\" target=\"_blank\"><br></a><a href=\"https://www.commonsense.org/education/top-picks/virtual-field-trip-apps-and-websites\" class=\"text-primary\" target=\"_blank\"><br></a><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "VIRTUAL TOURS",
+          "caption4": "<a href=\"https://docs.google.com/document/d/1amKLFlSqbI73qvgY7XqwcUs0WpkK80_vXroCQSI2v1E/edit?usp=sharing\" target=\"_blank\">Virtual Tour Lesson Plan</a><br><br><a href=\"https://historyview.org/\" target=\"_blank\">History View</a><br><br><a href=\"https://docs.google.com/spreadsheets/d/1uwWvAzAiQDueKXkxvqF6rS84oae2AU7eD8bhxzJ9SdY/edit#gid=0\" class=\"text-primary\" target=\"_blank\">Google Expeditions</a><br><br><a href=\"https://poly.google.com/\" class=\"text-primary\" target=\"_blank\">Poly</a><br><br><a href=\"https://www.commonsense.org/education/top-picks/virtual-field-trip-apps-and-websites\" class=\"text-primary\" target=\"_blank\">Common Sense Education Virtual Field Trips Apps &amp; Websites</a><a href=\"https://poly.google.com/\" class=\"text-primary\" target=\"_blank\"><br></a><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "ARTICLES &amp; RESEARCH<br>",
+          "caption5": "<a href=\"https://www.commonsense.org/education/top-picks/virtual-field-trip-apps-and-websites\" target=\"_blank\">Virtual Field Trips Apps &amp; Websites</a><br><br><br><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "EXAMPLES<br><br>",
+          "caption6": "<a href=\"http://explorer360.org/va/atractions/luraycaverns.html\">Luray Caverns</a><br><a href=\"http://explorer360.org/va/atractions/luraycaverns.html\"><br></a><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\">National Museum of Natural History</a><br><br><a href=\"https://www.youtube.com/watch?time_continue=17&amp;v=53PvDEkgbno\" target=\"_blank\">360º Solar Eclipse</a><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a><br><br><a href=\"https://naturalhistory.si.edu/about/virtual-tour\" target=\"_blank\"><br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-q",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
