@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Roadshow",
+    "name": "Site-10-11_0827",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -13,20 +13,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 24,
-    "versionPublish": "5.1.4",
+    "uniqCompNum": 23,
+    "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-148338615-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-148338615-3');\r\n</script>\r\n",
-    "imageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false,
-    "publishChangesOnly": false
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-148338615-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-148338615-3');\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
@@ -105,9 +97,9 @@
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.2"
           },
           "title": "Educational Technology Roadshow",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -266,7 +258,7 @@
             }
           },
           "title2": "HOW WE SUPPORT YOUR LEARNING",
-          "caption2": "1. A photo-walk using 360º cameras, explore this new technology<br>2. Networking, no-host, social (nearby &amp; immediately after the photowalk)<br>3. Follow-up webinar with integration ideas &amp; VR tour creation<br>4. Lesson framework for planning your own experiences<br>5. Information about career pathways associated with VR &amp; mixed reality",
+          "caption2": "1. A photo-walk using 360º cameras, explore this new technology<br>2. Neworking, no-host, social (nearby &amp; immediately after the photowalk)<br>3. Follow-up webinar with integration ideas &amp; VR tour creation<br>4. Lesson framework for planning your own experiences<br>5. Information about career pathways associated with VR &amp; mixed reality",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -363,7 +355,7 @@
           "_inherit": "features1",
           "_params": {
             "showHeader": true,
-            "showSubheader": true,
+            "showSubheader": false,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
@@ -388,8 +380,8 @@
             "Theme"
           ],
           "headerAlign": "left",
-          "header": "WHEN &amp; WHERE TO MEET UP",
-          "subheader": "Note: Roadshows will be reschedule when COVID 19 restrictions are lifted",
+          "header": "WHEN &amp; WHERE TO MEET UP<br><div><span style=\"color: inherit; font-family: inherit;\">All Roadshows 4:30 to 6:30 p.m.</span><br></div>",
+          "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
               "active": true,
@@ -410,8 +402,8 @@
               "size": 0
             }
           },
-          "title1": "CENTRAL SAN DIEGO&nbsp;<br><br>TBD<br>Balboa Park &amp; Panama 66<br><br>Tour Creation Webinar<br>Google VR; Tour Creator<br>TBD",
-          "caption1": "Meet up at 4:30 p.m. near the steps of the San Diego Museum of Art. We will do a 360º photo-walking tour and learn a little about some of the history of the park. We will also work together to brainstorm classroom implications. <br><br>Then, around 5:30 p.m. we will head back to hang out and network a while at <a href=\"https://www.panama66.com/\" target=\"_blank\">Panama 66</a>, an open air restaurant in a courtyard right in front of the Marcy S. May Sculpture Garden near the west side of the San Diego Museum of Art. It's an informal, no-host meet up, in a place with amazing ambiance, and all are welcome.&nbsp;<br><br>Join us&nbsp; for a webinar showing how to use images to create 360º tours using the free <a href=\"http://arvr.google.com/tourcreator/\" target=\"_blank\">Google VR Tour Creator</a>. We will also provide a framework for lesson planning!",
+          "title1": "CENTRAL SAN DIEGO&nbsp;<br><br>Nov. 13, 2019<br>Balboa Park &amp; Panama 66<br><br>Tour Creation Webinar<br>Google VR; Tour Creator<br>Dec. 3",
+          "caption1": "Meet up at 4:30 p.m. near the steps of the San Diego Museum of Art. We will do a 360º photo-walking tour and learn a little about some of the history of the park. We will also work together to brainstorm classroom implications. <br><br>Then, around 5:30 p.m. we will head back to hang out and network a while at <a href=\"https://www.panama66.com/\" target=\"_blank\">Panama 66</a>, an open air restaurant in a courtyard right in front of the Marcy S. May Sculpture Garden near the west side of the San Diego Museum of Art. It's an informal, no-host meet up, in a place with amazing ambiance, and all are welcome.&nbsp;<br><br>Join us on Dec. 3 for an <a href=\"http://edtecho.innovatesd.org\" target=\"_blank\">EdTECHO Tuesdays</a> webinar showing how to use images to create 360º tours using the free <a href=\"http://arvr.google.com/tourcreator/\" target=\"_blank\">Google VR Tour Creator</a>. We will also provide a framework for lesson planning!",
           "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdMtDZ8tuuSXo8OR4R6KBPAAY1Afp3rVN-RIsxob97C0XInXQ/viewform?usp=sf_link\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a>",
           "media2": {
             "image": {
@@ -433,8 +425,8 @@
               "size": 0
             }
           },
-          "title2": "EAST COUNTY&nbsp;<br><br>TBD<br>La Mesa Hidden Stairs &amp; Surf Rider Pizza<br><br>Tour Creation Webinar<br><div>Thinglink VR</div><div>TBD</div>",
-          "caption2": "Join us at 4:30 p.m. at the East base of the Hidden Stairs in La Mesa, at the corner of Acacia Avenue and Beverly Drive (91941). The 360º photo-walk starts with a short hike up the East stairs, then back down into the heart of downtown for a historical look at how the Mt. Nebo neighborhood and La Mesa Villiage area have changed over time. We will end the tour around 5:30. <br><br>After, please join us for a no-host hang out at the newly constructed <a href=\"https://surfrider.pizza/locations/la-mesa/\" target=\"_blank\">Surf Rider Pizza Co.</a> where New York style pizza is servered by the slice. As they say on their website, \"Enjoy hot pizza, in a chill environment.\"<br><br>Join us on for a webinar showing how to use images to create 360º tours using the free <a href=\"http://thinglink.com\" target=\"_blank\">Thinglink VR Editor</a>.<br>We will also provide a framework for lesson planning!<br>",
+          "title2": "EAST COUNTY&nbsp;<br><br>April 14, 2020<br>La Mesa Hidden Stairs &amp; Surf Rider Pizza<br><br>Tour Creation Webinar<br><div>Thinglink VR</div><div>April 21</div>",
+          "caption2": "Join us at 4:30 p.m. at the East base of the Hidden Stairs in La Mesa, at the corner of Acacia Avenue and Beverly Drive (91941). The 360º photo-walk starts with a short hike up the East stairs, then back down into the heart of downtown for a historical look at how the Mt. Nebo neighborhood and La Mesa Villiage area have changed over time. We will end the tour around 5:30. <br><br>After, please join us for a no-host hang out at the newly constructed <a href=\"https://surfrider.pizza/locations/la-mesa/\" target=\"_blank\">Surf Rider Pizza Co.</a> where New York style pizza is servered by the slice. As they say on their website, \"Enjoy hot pizza, in a chill environment.\"<br><br>Join us on Feb. 25 for an <a href=\"http://edtecho.innovatesd.org\" target=\"_blank\">EdTECHO Tuesdays </a>webinar showing how to use images to create 360º tours using the free <a href=\"http://thinglink.com\" target=\"_blank\">Thinglink VR Editor</a>.<br>We will also provide a framework for lesson planning!<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSdAUVHfIzLoEISQGqHjz7AvKZH9azAf0jtP0K1z5TjSqn3k1A/viewform?usp=sf_link\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a>",
           "media3": {
             "image": {
@@ -456,8 +448,8 @@
               "size": 0
             }
           },
-          "title3": "SOUTH COUNTY<br><br>TBD<br>Sweetwater Marsh &amp; Galley at the Marina<br><br>Tour Creation Webinar<br><div>Google VR; Tour Creator</div><div>TBD</div>",
-          "caption3": "Come visit the Sweetwater Marsh at 4:30 p.m. 1080 Gunpowder Point Drive, Chula Vista, 91910. We will practice using 360º cameras, take photos, consider how your students can become involved in creation of Virtual Tours for National Parks and other protected areas in San Diego, and network with other educators also interested in integrating environmental topics into their curriculum in interesting ways.&nbsp;<br><br>We end the walking tour at 5:30 and then for those interested, come to a no-host social at&nbsp;<a href=\"https://thegalleyatthemarina.com/\" target=\"_blank\">Galley At The Marina</a>, to hang out and enjoy views of the bay in Chula Vista.&nbsp;<br><br>Join us on for a webinar showing how to use images to create 360º tours using <a href=\"http://arvr.google.com/tourcreator\" target=\"_blank\">Google VR Tour Creator</a> and <a href=\"http://thinglink.com\" target=\"_blank\">Thinklink VR Editor</a>.&nbsp;We will also provide a framework for lesson planning!<br>",
+          "title3": "SOUTH COUNTY<br><br>May 13, 2020<br>Sweetwater Marsh &amp; Galley at the Marina<br><br>Tour Creation Webinar<br><div>Google VR; Tour Creator</div><div>Mar. 24</div>",
+          "caption3": "Come visit the Sweetwater Marsh at 4:30 p.m. 1080 Gunpowder Point Drive, Chula Vista, 91910. We will practice using 360º cameras, take photos, consider how your students can become involved in creation of Virtual Tours for National Parks and other protected areas in San Diego, and network with other educators also interested in integrating environmental topics into their curriculum in interesting ways.&nbsp;<br><br>We end the walking tour at 5:30 and then for those interested, come to a no-host social at&nbsp;<a href=\"https://thegalleyatthemarina.com/\" target=\"_blank\">Galley At The Marina</a>, to hang out and enjoy views of the bay in Chula Vista.&nbsp;<br><br>Join us on March 24 for an <a href=\"http://edtecho.innovatesd.org\" target=\"_blank\">EdTECHO Tuesdays</a> webinar showing how to use images to create 360º tours using <a href=\"http://arvr.google.com/tourcreator\" target=\"_blank\">Google VR Tour Creator</a> and <a href=\"http://thinglink.com\" target=\"_blank\">Thinklink VR Editor</a>.&nbsp;We will also provide a framework for lesson planning!<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeo2_9SA5v7M0yJ3D3IRtSCDaEPzZk6vSpyqd9O_u4bZbpHaw/viewform?usp=sf_link\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a>",
           "media4": {
             "image": {
@@ -526,12 +518,6 @@
               "font-size": "15px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#e25041"
             }
           }
         },

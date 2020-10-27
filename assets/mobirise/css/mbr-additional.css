@@ -38,6 +38,12 @@
   font-size: 15px;
   font-family: 'Oswald', sans-serif;
 }
+#content4-m .mbr-section-title .mbr-header__text {
+  color: #000000;
+}
+#content4-m .mbr-header__subtext {
+  color: #e25041;
+}
 #contacts1-5 P {
   color: #ffffff;
 }
