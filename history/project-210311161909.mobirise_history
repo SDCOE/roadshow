@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roadshow",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -18,7 +18,7 @@
     "uniqCompNum": 28,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-128x99.png",
+    "favicon": false,
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-148338615-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-148338615-3');\r\n</script>\r\n",
     "imageResize": true,
@@ -28,7 +28,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -38,8 +40,7 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/sdcoe_logo_color-578x448.png"
+        "html_before": ""
       },
       "components": [
         {
@@ -51,7 +52,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#306093",
-            "fontSize": "1.2",
+            "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
@@ -65,7 +66,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -81,12 +82,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
+              "src": "images/logo.png",
               "class": "",
               "height": 128,
-              "alt": "SDCOE Logo, Future without boundaries",
-              "link": "http://www.sdcoe.net",
-              "linkInNewWindow": true
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
@@ -609,8 +609,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Resources",
-        "order": 1,
-        "meta_image": "@PROJECT_PATH@/assets/images/sdcoe_logo_color-578x448.png"
+        "order": 1
       },
       "components": [
         {
@@ -638,7 +637,7 @@
             "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/copy-of-roadshow-teaser-3-1586x1008.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-roadshow-website-1579x750.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#3c3c3c",
@@ -1197,7 +1196,7 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#306093",
-            "fontSize": "1.2",
+            "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff"
           },
@@ -1211,7 +1210,7 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1em",
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
@@ -1227,12 +1226,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
+              "src": "images/logo.png",
               "class": "",
               "height": 128,
-              "alt": "SDCOE Logo, Future without boundaries",
-              "link": "http://www.sdcoe.net",
-              "linkInNewWindow": true
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
