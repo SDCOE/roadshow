@@ -1,22 +1,21 @@
 {
   "settings": {
     "name": "Roadshow",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
         "#3c3c3c",
-        "#2a6ab0",
-        "#306093"
+        "#2a6ab0"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
-    "uniqCompNum": 28,
-    "versionPublish": "5.2.0",
+    "uniqCompNum": 27,
+    "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "",
@@ -28,7 +27,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -42,54 +43,53 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "logo": true,
             "showBrand": false,
-            "hideButtons": true,
+            "showButtons": false,
             "sticky": true,
+            "collapsed": false,
             "transparent": true,
-            "bgColor": "#306093",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
+            "color": "#2969b0",
+            "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SDCOE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INNOVATION DIVISION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SDCOE Innovation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">#InnovateSD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">EDUCATIONAL TECHNOLOGY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.sdcoe.net/innovation/educational-technology/Pages/default.aspx\" aria-expanded=\"true\" target=\"_blank\">SDCOE Ed Tech</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Ed Tech Events</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ROASHOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resources</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#306093"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#2b5684"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">RESOURCES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
-              "class": "",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "SDCOE Logo, Future without Boundaries",
+              "link": "http://www.sdcoe.net",
+              "title": "SDCOE Future Without Boundaries",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-r"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Educational Technology Roadshow</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
         },
         {
           "_inherit": "header1",
@@ -677,6 +677,55 @@
           "_anchor": "msg-box5-f"
         },
         {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2969b0"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2969b0",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">RESOURCES</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-168x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "SDCOE Logo, Future without Boundaries",
+              "link": "http://www.sdcoe.net",
+              "title": "SDCOE Future Without Boundaries",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Educational Technology Roadshow</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-9"
+        },
+        {
           "_inherit": "features1",
           "_params": {
             "showHeader": false,
@@ -1184,56 +1233,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-b"
-        },
-        {
-          "_inherit": "dropdown-menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#306093",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SDCOE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">INNOVATION DIVISION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SDCOE Innovation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">#InnovateSD</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">EDUCATIONAL TECHNOLOGY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.sdcoe.net/innovation/educational-technology/Pages/default.aspx\" aria-expanded=\"true\" target=\"_blank\">SDCOE Ed Tech</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Ed Tech Events</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ROASHOW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resources</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#306093"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#2b5684"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-r"
         }
       ]
     }
